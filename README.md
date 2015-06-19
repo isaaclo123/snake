@@ -19,7 +19,6 @@ The WASD key format is used to navigate the snake level.
 Title Screen
 
 ```
-
  ███ ███ ███ █ █ ███
  █   █ █ █ █ █ █ █  
  ███ █ █ ███ ██  ███
@@ -28,12 +27,11 @@ Title Screen
 
  © COPYRIGHT ISAAC LO 2015. ALL RIGHTS RESERVED
 
- PRESS THE ENTER KEY TO PLAY... █
- 
+ PRESS THE ENTER KEY TO PLAY... █ 
 ```
 
 
-Snake level
+Snake level Screenshot
 
 ```
  ██████████████████████████████████████████████████
@@ -59,5 +57,52 @@ Snake level
 
  SCORE: 0
 █
+```
+
+
+Another Snake level Screenshot
 
 ```
+ ██████████████████████████████████████████████████
+ █                                                █
+ █                                                █
+ █                                                █
+ █                                                █
+ █                                                █
+ █                                                █
+ █                                                █
+ █                                                █
+ █                                                █
+ █                                                █
+ █                                                █
+ █            ●      ████████                     █
+ █                          █                     █
+ █                          ████                  █
+ █                                                █
+ █                                                █
+ █                                                █
+ █                                                █
+ ██████████████████████████████████████████████████
+
+ SCORE: 500
+█
+```
+
+
+Game Over Screen
+
+'''
+  ████ ███ █████ ███
+  █    █ █ █ █ █ █  
+  █ ██ ███ █ █ █ ███
+  █  █ █ █ █ █ █ █  
+  ████ █ █ █ █ █ ███
+ 
+  ███ █ █ ███ ███
+  █ █ █ █ █   █ █
+  █ █ █ █ ███ ██ 
+  █ █ █ █ █   █ █
+  ███ ███ ███ █ █
+ 
+  SCORE: 600
+ '''
